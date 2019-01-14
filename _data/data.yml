@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: dlnchlls@gmail.com
-    phone:
+    phone: +44 7598 747132
     website: dlnchlls.github.io #do not add http://
     linkedin: dalenicholls
     github: dlnchlls
@@ -22,12 +22,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      My role as a Tekla Detailer is to use the Tekla Structures software package to set-out, detail and check 3D models,
+      As a structural steel detailer, I use Tekla Structures to set-out, detail and check 3D models,
       connections and fabrication/erection drawings for the various steelwork contracts listed below. 
       
-      As a Software Developer, I discuss with colleagues how we can improve productivity. I then implement these ideas with
-      programming languages like C# and VBA to write macros, applications and plugins for Tekla Structures, Microsoft Windows
-      and Office.
+      As a software developer, I use Visual Studio to create software solutions to improve productivity 
+      for Tekla Structures, Microsoft Windows and Microsoft Office.
 
 education:
     - degree: HNC in Civil Engineering
