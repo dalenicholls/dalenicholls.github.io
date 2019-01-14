@@ -66,6 +66,13 @@
       <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
     </li>
     {% endif %}
-
+    
+    {% if sidebar.vcard %}
+    <div class="button">
+      <a href="vcard.vcf">
+        <p class="button">Download</p>
+      </a>
+    </div>
+    {% endif %}
   </ul>
 </div><!--//contact-container-->
