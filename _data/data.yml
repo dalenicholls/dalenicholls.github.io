@@ -1,0 +1,133 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Dale Nicholls
+    tagline: Structural Steel Detailer & Software Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: dlnchlls@gmail.com
+    phone:
+    website: dlnchlls.github.io #do not add http://
+    linkedin: dalenicholls
+    github: dlnchlls
+    twitter: dlnchlls
+
+career-profile:
+    title: Career Profile
+    summary: |
+      My role as a Tekla Detailer is to use the Tekla Structures software package to set-out, detail and check 3D models,
+      connections and fabrication/erection drawings for the various steelwork contracts listed below. 
+      
+      As a Software Developer, I discuss with colleagues how we can improve productivity. I then implement these ideas with
+      programming languages like C# and VBA to write macros, applications and plugins for Tekla Structures, Microsoft Windows
+      and Office.
+
+education:
+    - degree: HNC in Civil Engineering
+      university: Castle College, Sheffield
+      time: 2004 - 2006
+
+    - degree: ONC in Civil Engineering
+      university: Queens Garden College, Hull
+      time: 2002 - 2004
+
+    - degree: City & Guilds Level 2 & 3 in AutoCAD
+      university: Selby College, Selby
+      time: 2002 - 2003
+
+awards:
+    - award: Tekla 2012 Open API Competition winner for Tekla Properties
+
+experiences:
+    - role: Structural Steel Detailer & Software Developer
+      time: 2018 - Present
+      company: Exact Detailing
+      details: |
+        Covering a large range of structural and metalwork packages for various markets across the globe.
+
+    - role: Structural Steel Detailer & Software Developer
+      time: 2013 - 2018
+      company: Whitemud Ironworks UK
+      details: |
+        As a remote drawing office, the workload covered a wide range of structural and metalwork packages solely for the 
+        Canadian market. Along with my duties as a Detailer/Developer, I also provided IT & Tekla support to colleagues in
+        offices based in the UK, Canada and Manila. This includes writing documentation and procedures for the department,
+        as well as performing regular user workshop presentations to inform users of the latest developments.
+        - YVR Pier D (Vancouver Airport Extension)
+        - OMF Building
+        - Cochrane Aquatics & Curling Club
+        - Shepherd’s Care Heritage
+        - YVR ETF4 (Vancouver Airport extension)
+        
+    - role: Structural Steel Detailer
+      time: 2005 - 2013
+      company: Kennedy Watts Partnership
+      details: |
+        Working primarily for Severfield Reeve as a sub-contract drawing office, I spent the majority of my time detailing.
+        However when there was an opportunity to improve on something using my programming skills I was given the time to 
+        be able to do so.
+        - Paris Philharmonic, France
+        - Trinity Shopping Centre, Leeds UK
+        - The Shard of Glass, London UK
+        - Olympic Shopping Centre, London UK
+        - More London Plot 7, London UK
+        - Project Pluto LNG Plant, Australia
+        - Eagles Meadow, Wrexham UK
+        - Westfield Shopping Centre, London UK
+
+    - role: Apprentice Structural Steel Detailer
+      time: 2002 - 2005
+      company: William Hare Wetherby / Westbury Structures
+      details: |
+        As part of my training, my first 6 months was spent working on the shop floor gaining experience of interpreting
+        fabrication drawings, becoming accustomed to the way the factory worked and learning to operate CNC machinery 
+        such as CHS profiler and NC data/DXF plate profilers. I then gained experience in the Document Control department,
+        highlighting some areas for change and implementing new practices. In the Drawing Office I worked as an Apprentice
+        Draughtsman on the steelwork contracts listed below. I was also involved with the development of the Tekla Structures
+        system files to customise the software to the needs of the company.
+        - 2 Footbridge Projects for British Waterways
+        - Odyssey Masts for Redrow Homes
+        - Queen Mary School of Medicine and Dentistry, London UK
+        - A14 Footbridge, Milton, Cambridge UK
+        - Coventry Arena, Coventry UK
+        - Solartron Entrance Features, Farnborough UK
+        - Wembley Park Station, Wembley, London UK
+        - The Development of The Boomerang, Norwich Bus Interchange, Norwich UK
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
