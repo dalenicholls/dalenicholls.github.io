@@ -14,9 +14,10 @@ sidebar:
     # Sidebar links
     email: dlnchlls@gmail.com
     phone: +44 7598 747132
-    website: teklanology.github.io #do not add http://
+    website: github.com/teklanology #do not add http://
     linkedin: dalenicholls
-    github: dlnchlls
+    github: teklanology
+    twitter: teklanology
     
     
     vcard: True
