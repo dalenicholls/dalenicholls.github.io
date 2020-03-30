@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: dlnchlls@gmail.com
     phone: +44 7598 747132
-    website: dlnchlls.github.io #do not add http://
+    website: teklanology.github.io #do not add http://
     linkedin: dalenicholls
     github: dlnchlls
     
@@ -47,8 +47,17 @@ awards:
     - award: Tekla 2012 Open API Competition winner for Tekla Properties
 
 experiences:
+    - role: Structural Steel Detailer
+      time: 2019 - Present
+      company: SH Structures
+      details: |
+        Working on a variety of complex projects across the UK.
+        - Selly Oak Footbridge
+        - Balustrade for A63 Footbridge Ramps
+        - Infinity Liverpool Columns
+
     - role: Structural Steel Detailer & Software Developer
-      time: 2018 - Present
+      time: 2018 - 2019
       company: Exact Detailing
       details: |
         Working remotely for Exact Detailing, I've worked on a large range of structural and metalwork packages for various
