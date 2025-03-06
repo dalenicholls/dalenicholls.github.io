@@ -51,8 +51,14 @@ experiences:
       company: Billington Structures
       details: |
         Working on a variety of complex projects across the UK.
-        - Meridian Water, London UK
-        - Cuckoo's Hollow Footbridges, Peterborough UK
+      projects: 
+          - title: Meridian Water, London UK
+            link: #
+            tagline: -
+
+          - title: Cuckoo's Hollow Footbridges, Peterborough UK
+            link: #
+            tagline: -
 
     - role: Structural Steel Detailer
       time: 2019 - 2024
