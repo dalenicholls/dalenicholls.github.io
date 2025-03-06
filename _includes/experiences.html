@@ -6,7 +6,7 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    Experiences
+    Experience
   </h2>
 
   {% for experience in experiences %}
@@ -28,6 +28,20 @@
       {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
+
+    {% for project in experience.projects %}
+      <div class="item">
+  
+        <span class="project-title">
+          <a href="{{ project.link }}">{{ project.title }}</a>
+        </span>
+  
+        {% if project.tagline %}
+        - <span class="project-tagline">{{ project.tagline }}</span>
+        {% endif %}
+  
+      </div><!--//item-->
+    {% endfor %}
 
   </div><!--//item-->
   {% endfor %}
